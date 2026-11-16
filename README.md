@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo CAD Script
+
+**Embryo CAD Script** is Embryo-Zero's fork of [build123d](https://github.com/gumyr/build123d), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <h1 align="center">
     <img alt="build123d logo" src="https://github.com/gumyr/build123d/raw/dev/docs/assets/build123d_logo/logo-banner.svg">
 </h1>
